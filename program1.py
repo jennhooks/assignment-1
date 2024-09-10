@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 def main():
-    print("Hello world")
+    print("A 'Hello world' program is an example program")
 
 if __name__ == "__main__":
     main()
